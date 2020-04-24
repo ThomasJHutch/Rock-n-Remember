@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "Led Zeppelin",
+        "clicked": false,
+        "image": "https://upload.wikimedia.org/wikipedia/en/e/e3/Led_Zeppelin_-_Physical_Graffiti.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Aerosmith",
+        "clicked": false,
+        "image": "https://external-preview.redd.it/C0ecbBLqe-Lyng0oc-V50ALId-JbXncZQTX-TlLWWZU.jpg?auto=webp&s=4faf188b77a8814ecdcae2f15cd66c115e68c632"
+    },
+    {
+        "id": 3,
+        "name": "AC/DC",
+        "clicked": false,
+        "image": "https://upload.wikimedia.org/wikipedia/en/f/fc/Acdc_high_voltage_international_album.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Motley Crue",
+        "clicked": false,
+        "image": "https://static.billboard.com/files/media/motley-crue-theatre-of-pain-billboard-650x650-compressed.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Bob Dylan",
+        "clicked": false,
+        "image": "https://upload.wikimedia.org/wikipedia/en/f/f1/Bob_Dylan_-_The_Times_They_Are_a-Changin%27.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Rolling Stones",
+        "clicked": false,
+        "image": "https://www.udiscovermusic.com/wp-content/uploads/2015/12/Rolling-Stones-Let-It-Bleed.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Black Sabbath",
+        "clicked": false,
+        "image": "https://upload.wikimedia.org/wikipedia/en/6/64/Black_Sabbath_-_Paranoid.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Rush",
+        "clicked": false,
+        "image": "https://upload.wikimedia.org/wikipedia/en/4/4a/Moving_Pictures.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Pink Floyd",
+        "clicked": false,
+        "image": "https://miro.medium.com/max/2480/1*8FkvzbSdSJ4HNxtuZo5kLg.jpeg"
+    },
+    {
+        "id": 10,
+        "name": "Focus",
+        "clicked": false,
+        "image": "https://img.discogs.com/o8Fljka6wJvmf4PyvEOT3mATl1M=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1793651-1443155705-8488.jpeg.jpg"
+    },
+    {
+        "id": 11,
+        "name": "The Eagles",
+        "clicked": false,
+        "image": "https://upload.wikimedia.org/wikipedia/en/4/49/Hotelcalifornia.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Deep Purple",
+        "clicked": false,
+        "image": "https://img.discogs.com/fO6FEybVIJxqX31bpi3tSYPYpD0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1849291-1340887670-6848.jpeg.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Def Leppard",
+        "clicked": false,
+        "image": "https://upload.wikimedia.org/wikipedia/en/a/a7/Def_Leppard_-_Pyromania.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Cream",
+        "clicked": false,
+        "image": "https://upload.wikimedia.org/wikipedia/en/a/a8/Creamwheelsoffire.jpeg"
+    },
+    {
+        "id": 15,
+        "name": "Van Halen",
+        "clicked": false,
+        "image": "https://upload.wikimedia.org/wikipedia/en/0/0d/Van_Halen_album.jpg"
+    },
+    {
+        "id": 16,
+        "name": "ZZ Top",
+        "clicked": false,
+        "image": "https://miro.medium.com/max/3000/0*lpZq6GBCsYrUXZPp.jpg"
+    }
+]
